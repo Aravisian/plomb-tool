@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Plomb
+Comment=A theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Plomb
+MetacityTheme=Plomb
+ButtonLayout=menu:minimize,maximize,close
